@@ -23,9 +23,9 @@
 
 - 🌱 I’m currently learning how **to integrate LLMs into daily applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in **Machine Learning Algorithms**. 
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **Python, Machine Leanring, react, react-native, nodejs, mongoDB**
 
 - 📫 Feel free to reach me out **ashinsphilip2002@gmail.com**
 
