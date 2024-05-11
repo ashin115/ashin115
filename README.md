@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, React, React Native, Nodejs, MongoDB, **
+- 🔭 I’m currently working on **Python, React, React Native, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning how **to integrate LLMs into daily applications.**
 
